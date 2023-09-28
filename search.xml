@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Luogu数学</title>
+      <link href="/posts/fada414.html"/>
+      <url>/posts/fada414.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> ACM-Math </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CF数学</title>
       <link href="/posts/aa579273.html"/>
       <url>/posts/aa579273.html</url>
@@ -33,25 +52,6 @@
       <categories>
           
           <category> DP </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Luogu数学</title>
-      <link href="/posts/fada414.html"/>
-      <url>/posts/fada414.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> ACM-Math </category>
           
       </categories>
       

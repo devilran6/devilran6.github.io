@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2023-09-28T09:00:42.259Z</updated>
+  <updated>2023-09-28T09:01:19.779Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -17,11 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Luogu数学</title>
+    <link href="https://www.fomal.cc/posts/fada414.html"/>
+    <id>https://www.fomal.cc/posts/fada414.html</id>
+    <published>2023-09-27T16:00:00.000Z</published>
+    <updated>2023-09-28T09:01:19.779Z</updated>
+    
+    
+    <summary type="html">Luogu数学</summary>
+    
+    
+    
+    <category term="ACM-Math" scheme="https://www.fomal.cc/categories/ACM-Math/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>CF数学</title>
     <link href="https://www.fomal.cc/posts/aa579273.html"/>
     <id>https://www.fomal.cc/posts/aa579273.html</id>
     <published>2023-09-27T16:00:00.000Z</published>
-    <updated>2023-09-28T09:00:42.259Z</updated>
+    <updated>2023-09-28T09:01:19.776Z</updated>
     
     <content type="html"><![CDATA[<h1>1</h1><h2 id="11">11</h2><h2 id="111">111</h2>]]></content>
     
@@ -50,23 +67,6 @@
     
     
     <category term="DP" scheme="https://www.fomal.cc/categories/DP/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Luogu数学</title>
-    <link href="https://www.fomal.cc/posts/fada414.html"/>
-    <id>https://www.fomal.cc/posts/fada414.html</id>
-    <published>2023-09-27T16:00:00.000Z</published>
-    <updated>2023-09-28T09:00:30.305Z</updated>
-    
-    
-    <summary type="html">Luogu数学</summary>
-    
-    
-    
-    <category term="ACM-Math" scheme="https://www.fomal.cc/categories/ACM-Math/"/>
     
     
   </entry>
