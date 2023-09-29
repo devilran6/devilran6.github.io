@@ -23,25 +23,6 @@
     
     
     <entry>
-      <title>CF数学</title>
-      <link href="/posts/aa579273.html"/>
-      <url>/posts/aa579273.html</url>
-      
-        <content type="html"><![CDATA[<h1>1</h1><h2 id="11">11</h2><h2 id="111">111</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> ACM-Math </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>换根DP</title>
       <link href="/posts/4286fd48.html"/>
       <url>/posts/4286fd48.html</url>
@@ -52,6 +33,25 @@
       <categories>
           
           <category> DP </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CF数学</title>
+      <link href="/posts/aa579273.html"/>
+      <url>/posts/aa579273.html</url>
+      
+        <content type="html"><![CDATA[<h1>1</h1><h2 id="11">11</h2><h2 id="111">111</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> ACM-Math </category>
           
       </categories>
       
