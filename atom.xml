@@ -6,7 +6,7 @@
   <link href="https://devilran6.github.io/atom.xml" rel="self"/>
   
   <link href="https://devilran6.github.io/"/>
-  <updated>2023-10-01T13:26:03.030Z</updated>
+  <updated>2023-10-01T13:27:00.632Z</updated>
   <id>https://devilran6.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://devilran6.github.io/posts/5b46e4e0.html"/>
     <id>https://devilran6.github.io/posts/5b46e4e0.html</id>
     <published>2023-09-30T16:00:00.000Z</published>
-    <updated>2023-10-01T13:26:03.030Z</updated>
+    <updated>2023-10-01T13:27:00.632Z</updated>
     
-    <content type="html"><![CDATA[<div class="note info flat"><p>Code Reference：<a href="https://zhuanlan.zhihu.com/p/658033297">知乎</a></p></div><div class="note success flat"><p>！！！</p></div>]]></content>
+    <content type="html"><![CDATA[<div class="note info flat"><p>Code Reference：<a href="https://zhuanlan.zhihu.com/p/658033297">知乎</a> </p></div><div class="note success flat"><p>！！！</p></div>]]></content>
     
     
     <summary type="html">ICPC网络赛第二场</summary>
@@ -31,6 +31,44 @@
     
     
     <category term="ICPC" scheme="https://devilran6.github.io/categories/ICPC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>有意思的网站</title>
+    <link href="https://devilran6.github.io/posts/5c37860b.html"/>
+    <id>https://devilran6.github.io/posts/5c37860b.html</id>
+    <published>2023-09-30T16:00:00.000Z</published>
+    <updated>2023-10-01T13:30:10.116Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://wdxtub.com/">https://wdxtub.com/</a></p><p><a href="https://blog.tonycrane.cc/">https://blog.tonycrane.cc/</a></p><p><a href="https://note.tonycrane.cc/">https://note.tonycrane.cc/</a></p>]]></content>
+    
+    
+    <summary type="html">有意思的网站</summary>
+    
+    
+    
+    <category term="Blog" scheme="https://devilran6.github.io/categories/Blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CF数学</title>
+    <link href="https://devilran6.github.io/posts/aa579273.html"/>
+    <id>https://devilran6.github.io/posts/aa579273.html</id>
+    <published>2023-09-27T16:00:00.000Z</published>
+    <updated>2023-09-28T09:01:19.776Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="11"><a href="#11" class="headerlink" title="11"></a>11</h2><h2 id="111"><a href="#111" class="headerlink" title="111"></a>111</h2>]]></content>
+    
+    
+    <summary type="html">codeforces 数学 1500-1800</summary>
+    
+    
+    
+    <category term="ACM-Math" scheme="https://devilran6.github.io/categories/ACM-Math/"/>
     
     
   </entry>
@@ -67,25 +105,6 @@
     
     
     <category term="DP" scheme="https://devilran6.github.io/categories/DP/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>CF数学</title>
-    <link href="https://devilran6.github.io/posts/aa579273.html"/>
-    <id>https://devilran6.github.io/posts/aa579273.html</id>
-    <published>2023-09-27T16:00:00.000Z</published>
-    <updated>2023-09-28T09:01:19.776Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="11"><a href="#11" class="headerlink" title="11"></a>11</h2><h2 id="111"><a href="#111" class="headerlink" title="111"></a>111</h2>]]></content>
-    
-    
-    <summary type="html">codeforces 数学 1500-1800</summary>
-    
-    
-    
-    <category term="ACM-Math" scheme="https://devilran6.github.io/categories/ACM-Math/"/>
     
     
   </entry>
