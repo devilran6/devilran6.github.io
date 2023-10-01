@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>Luogu数学</title>
-      <link href="/posts/fada414.html"/>
-      <url>/posts/fada414.html</url>
+      <title>icpc网络赛第二场</title>
+      <link href="/posts/5b46e4e0.html"/>
+      <url>/posts/5b46e4e0.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="note info flat"><p>Code Reference：<a href="https://zhuanlan.zhihu.com/p/658033297">知乎</a></p></div><div class="note success flat"><p>！！！</p></div>]]></content>
       
       
       <categories>
           
-          <category> ACM-Math </category>
+          <category> icpc </category>
           
       </categories>
       
@@ -23,11 +23,11 @@
     
     
     <entry>
-      <title>CF数学</title>
-      <link href="/posts/aa579273.html"/>
-      <url>/posts/aa579273.html</url>
+      <title>Luogu数学</title>
+      <link href="/posts/fada414.html"/>
+      <url>/posts/fada414.html</url>
       
-        <content type="html"><![CDATA[<h1>1</h1><h2 id="11">11</h2><h2 id="111">111</h2>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
@@ -52,6 +52,25 @@
       <categories>
           
           <category> DP </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CF数学</title>
+      <link href="/posts/aa579273.html"/>
+      <url>/posts/aa579273.html</url>
+      
+        <content type="html"><![CDATA[<h1>1</h1><h2 id="11">11</h2><h2 id="111">111</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> ACM-Math </category>
           
       </categories>
       
