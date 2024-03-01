@@ -6,7 +6,7 @@
   <link href="https://devilran6.github.io/atom.xml" rel="self"/>
   
   <link href="https://devilran6.github.io/"/>
-  <updated>2024-03-01T14:56:00.000Z</updated>
+  <updated>2024-03-01T15:08:54.501Z</updated>
   <id>https://devilran6.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>what</title>
+    <link href="https://devilran6.github.io/posts/bae63262.html"/>
+    <id>https://devilran6.github.io/posts/bae63262.html</id>
+    <published>2024-03-01T15:08:54.000Z</published>
+    <updated>2024-03-01T15:08:54.501Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>OS之旅</title>
@@ -55,25 +68,6 @@
   </entry>
   
   <entry>
-    <title>Test</title>
-    <link href="https://devilran6.github.io/posts/784dd132.html"/>
-    <id>https://devilran6.github.io/posts/784dd132.html</id>
-    <published>2023-09-30T16:00:00.000Z</published>
-    <updated>2024-03-01T14:55:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Test</p><p>Hello World!</p><p>lalala</p>]]></content>
-    
-    
-    <summary type="html">Test</summary>
-    
-    
-    
-    <category term="blog" scheme="https://devilran6.github.io/categories/blog/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>有意思的网站</title>
     <link href="https://devilran6.github.io/posts/5c37860b.html"/>
     <id>https://devilran6.github.io/posts/5c37860b.html</id>
@@ -88,6 +82,25 @@
     
     
     <category term="Blog" scheme="https://devilran6.github.io/categories/Blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Test</title>
+    <link href="https://devilran6.github.io/posts/784dd132.html"/>
+    <id>https://devilran6.github.io/posts/784dd132.html</id>
+    <published>2023-09-30T16:00:00.000Z</published>
+    <updated>2024-03-01T14:55:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Test</p><p>Hello World!</p><p>lalala</p>]]></content>
+    
+    
+    <summary type="html">Test</summary>
+    
+    
+    
+    <category term="blog" scheme="https://devilran6.github.io/categories/blog/"/>
     
     
   </entry>
