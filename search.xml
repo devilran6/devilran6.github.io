@@ -13,7 +13,7 @@
       
       <categories>
           
-          <category> os </category>
+          <category> OS </category>
           
       </categories>
       
@@ -55,16 +55,16 @@
     
     
     <entry>
-      <title>ICPC网络赛第二场</title>
-      <link href="/posts/7869750000.html"/>
-      <url>/posts/7869750000.html</url>
+      <title>Test</title>
+      <link href="/posts/784dd132.html"/>
+      <url>/posts/784dd132.html</url>
       
-        <content type="html"><![CDATA[<div class="note info flat"><p>Code Reference：</p><p><a href="https://zhuanlan.zhihu.com/p/658033297">https://zhuanlan.zhihu.com/p/658033297</a></p><p><a href="https://blog.csdn.net/qq_62817228/article/details/133214071">https://blog.csdn.net/qq_62817228/article/details/133214071</a></p></div><div class="note success flat"><p>！！！</p></div><h2 id="K-Super-Knight">K Super-Knight</h2><p>n * n的棋盘，上下连接，左右连接。</p><p>棋子最开始在左下角，每移动一次会向上移动a，向右移动b</p><p>问除了出发点外所有可以到达的点中，距离出发点的欧几里得距离的平方的最小值为多少</p><p><strong>思路：</strong></p>]]></content>
+        <content type="html"><![CDATA[<p>Test</p><p>Hello World!</p><p>lalala</p>]]></content>
       
       
       <categories>
           
-          <category> ICPC </category>
+          <category> blog </category>
           
       </categories>
       
@@ -93,35 +93,16 @@
     
     
     <entry>
-      <title>Test</title>
-      <link href="/posts/784dd132.html"/>
-      <url>/posts/784dd132.html</url>
+      <title>ICPC网络赛第二场</title>
+      <link href="/posts/7869750000.html"/>
+      <url>/posts/7869750000.html</url>
       
-        <content type="html"><![CDATA[<p>Test</p><p>Hello World!</p><p>lalala</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> blog </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>换根DP</title>
-      <link href="/posts/4286fd48.html"/>
-      <url>/posts/4286fd48.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="换根DP">换根DP</h2><p>参考博客<a href="https://zhuanlan.zhihu.com/p/348349531">https://zhuanlan.zhihu.com/p/348349531</a></p><h2 id="题目">题目</h2><h3 id="题目1-洛谷P3478">题目1 洛谷P3478</h3><p><a href="https://www.luogu.com.cn/problem/P3478">https://www.luogu.com.cn/problem/P3478</a></p><h3 id="题目2-div2-899-D">题目2 div2_899_D</h3><p><a href="https://codeforces.com/contest/1882/problem/D">https://codeforces.com/contest/1882/problem/D</a></p>]]></content>
+        <content type="html"><![CDATA[<div class="note info flat"><p>Code Reference：</p><p><a href="https://zhuanlan.zhihu.com/p/658033297">https://zhuanlan.zhihu.com/p/658033297</a></p><p><a href="https://blog.csdn.net/qq_62817228/article/details/133214071">https://blog.csdn.net/qq_62817228/article/details/133214071</a></p></div><div class="note success flat"><p>！！！</p></div><h2 id="K-Super-Knight">K Super-Knight</h2><p>n * n的棋盘，上下连接，左右连接。</p><p>棋子最开始在左下角，每移动一次会向上移动a，向右移动b</p><p>问除了出发点外所有可以到达的点中，距离出发点的欧几里得距离的平方的最小值为多少</p><p><strong>思路：</strong></p>]]></content>
       
       
       <categories>
           
-          <category> DP </category>
+          <category> ICPC </category>
           
       </categories>
       
@@ -141,6 +122,25 @@
       <categories>
           
           <category> ACM-Math </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>换根DP</title>
+      <link href="/posts/4286fd48.html"/>
+      <url>/posts/4286fd48.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="换根DP">换根DP</h2><p>参考博客<a href="https://zhuanlan.zhihu.com/p/348349531">https://zhuanlan.zhihu.com/p/348349531</a></p><h2 id="题目">题目</h2><h3 id="题目1-洛谷P3478">题目1 洛谷P3478</h3><p><a href="https://www.luogu.com.cn/problem/P3478">https://www.luogu.com.cn/problem/P3478</a></p><h3 id="题目2-div2-899-D">题目2 div2_899_D</h3><p><a href="https://codeforces.com/contest/1882/problem/D">https://codeforces.com/contest/1882/problem/D</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> DP </category>
           
       </categories>
       
