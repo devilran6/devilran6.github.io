@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Test</title>
+      <link href="/posts/784dd132.html"/>
+      <url>/posts/784dd132.html</url>
+      
+        <content type="html"><![CDATA[<p>ch9-虚拟内存</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MIT 6.S081 Lab1-Xv6 and Unix utilities</title>
       <link href="/posts/8b60d190.html"/>
       <url>/posts/8b60d190.html</url>
@@ -23,19 +42,6 @@
     
     
     <entry>
-      <title>what</title>
-      <link href="/posts/bae63262.html"/>
-      <url>/posts/bae63262.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>OS之旅</title>
       <link href="/posts/234539a9.html"/>
       <url>/posts/234539a9.html</url>
@@ -46,44 +52,6 @@
       <categories>
           
           <category> OS </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>有意思的网站</title>
-      <link href="/posts/5c37860b.html"/>
-      <url>/posts/5c37860b.html</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://wdxtub.com/">https://wdxtub.com/</a></p><p><a href="https://blog.tonycrane.cc/">https://blog.tonycrane.cc/</a></p><p><a href="https://note.tonycrane.cc/">https://note.tonycrane.cc/</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Blog </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Test</title>
-      <link href="/posts/784dd132.html"/>
-      <url>/posts/784dd132.html</url>
-      
-        <content type="html"><![CDATA[<p>Test</p><p>Hello World!</p><p>lalala</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> blog </category>
           
       </categories>
       
@@ -112,16 +80,16 @@
     
     
     <entry>
-      <title>换根DP</title>
-      <link href="/posts/4286fd48.html"/>
-      <url>/posts/4286fd48.html</url>
+      <title>有意思的网站</title>
+      <link href="/posts/5c37860b.html"/>
+      <url>/posts/5c37860b.html</url>
       
-        <content type="html"><![CDATA[<h2 id="换根DP"><a href="#换根DP" class="headerlink" title="换根DP"></a>换根DP</h2><p>参考博客<a href="https://zhuanlan.zhihu.com/p/348349531">https://zhuanlan.zhihu.com/p/348349531</a></p><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><h3 id="题目1-洛谷P3478"><a href="#题目1-洛谷P3478" class="headerlink" title="题目1 洛谷P3478"></a>题目1 洛谷P3478</h3><p><a href="https://www.luogu.com.cn/problem/P3478">https://www.luogu.com.cn/problem/P3478</a></p><h3 id="题目2-div2-899-D"><a href="#题目2-div2-899-D" class="headerlink" title="题目2 div2_899_D"></a>题目2 div2_899_D</h3><p><a href="https://codeforces.com/contest/1882/problem/D">https://codeforces.com/contest/1882/problem/D</a></p>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://wdxtub.com/">https://wdxtub.com/</a></p><p><a href="https://blog.tonycrane.cc/">https://blog.tonycrane.cc/</a></p><p><a href="https://note.tonycrane.cc/">https://note.tonycrane.cc/</a></p>]]></content>
       
       
       <categories>
           
-          <category> DP </category>
+          <category> blog </category>
           
       </categories>
       
@@ -140,7 +108,30 @@
       
       <categories>
           
+          <category> ICPC </category>
+          
           <category> ACM-Math </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>换根DP</title>
+      <link href="/posts/4286fd48.html"/>
+      <url>/posts/4286fd48.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="换根DP"><a href="#换根DP" class="headerlink" title="换根DP"></a>换根DP</h2><p>参考博客<a href="https://zhuanlan.zhihu.com/p/348349531">https://zhuanlan.zhihu.com/p/348349531</a></p><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><h3 id="题目1-洛谷P3478"><a href="#题目1-洛谷P3478" class="headerlink" title="题目1 洛谷P3478"></a>题目1 洛谷P3478</h3><p><a href="https://www.luogu.com.cn/problem/P3478">https://www.luogu.com.cn/problem/P3478</a></p><h3 id="题目2-div2-899-D"><a href="#题目2-div2-899-D" class="headerlink" title="题目2 div2_899_D"></a>题目2 div2_899_D</h3><p><a href="https://codeforces.com/contest/1882/problem/D">https://codeforces.com/contest/1882/problem/D</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ICPC </category>
+          
+          <category> DP </category>
           
       </categories>
       
@@ -158,6 +149,8 @@
       
       
       <categories>
+          
+          <category> ICPC </category>
           
           <category> CF </category>
           
@@ -178,6 +171,8 @@
       
       <categories>
           
+          <category> ICPC </category>
+          
           <category> CF </category>
           
       </categories>
@@ -196,6 +191,8 @@
       
       
       <categories>
+          
+          <category> ICPC </category>
           
           <category> CF </category>
           
@@ -216,6 +213,8 @@
       
       <categories>
           
+          <category> ICPC </category>
+          
           <category> CF </category>
           
       </categories>
@@ -234,6 +233,8 @@
       
       
       <categories>
+          
+          <category> ICPC </category>
           
           <category> CF </category>
           
