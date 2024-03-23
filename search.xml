@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>【blog】 1 春天要来了！</title>
+      <title>【Blog】 1 春天要来了！</title>
       <link href="/posts/d1e1a83e.html"/>
       <url>/posts/d1e1a83e.html</url>
       
@@ -13,7 +13,7 @@
       
       <categories>
           
-          <category> blog </category>
+          <category> Blog </category>
           
       </categories>
       
@@ -99,6 +99,25 @@
     
     
     <entry>
+      <title>有意思的网站</title>
+      <link href="/posts/5c37860b.html"/>
+      <url>/posts/5c37860b.html</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://wdxtub.com/">https://wdxtub.com/</a></p><p><a href="https://blog.tonycrane.cc/">https://blog.tonycrane.cc/</a></p><p><a href="https://note.tonycrane.cc/">https://note.tonycrane.cc/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ICPC网络赛第二场</title>
       <link href="/posts/7869750000.html"/>
       <url>/posts/7869750000.html</url>
@@ -109,25 +128,6 @@
       <categories>
           
           <category> ICPC </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>有意思的网站</title>
-      <link href="/posts/5c37860b.html"/>
-      <url>/posts/5c37860b.html</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://wdxtub.com/">https://wdxtub.com/</a></p><p><a href="https://blog.tonycrane.cc/">https://blog.tonycrane.cc/</a></p><p><a href="https://note.tonycrane.cc/">https://note.tonycrane.cc/</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> blog </category>
           
       </categories>
       
