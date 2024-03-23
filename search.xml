@@ -8,7 +8,7 @@
       <link href="/posts/d1e1a83e.html"/>
       <url>/posts/d1e1a83e.html</url>
       
-        <content type="html"><![CDATA[<p>今天去逛了逛公园，见到了没开花的海棠和盛开的水桃花，以及一个哈哈哈抬头撞到的鸟窝！</p><p><img src="assets/image-20240323190041513.png" alt=""></p><p><img src="assets/image-20240323190526694.png" alt=""></p><p><img src="assets/image-20240323190549081.png" alt=""></p><p>以及最近看到小土刀的一段话<br>“这种负重前行的生活，更加让我意识到盼头的重要性，生活需要希望，工作更需要远大的目标。但使命感如何建立，并不容易，需要一点一滴构建和小心呵护。”</p>]]></content>
+        <content type="html"><![CDATA[<p>今天去逛了逛公园，见到了没开花的海棠和盛开的水桃花，以及一个哈哈哈抬头撞到的鸟窝！</p><p><img src="../assets/image-20240323190041513.png" alt=""></p><p><img src="../assets/image-20240323190526694.png" alt=""></p><p><img src="../assets/image-20240323190549081.png" alt=""></p><p>以及最近看到小土刀的一段话<br>“这种负重前行的生活，更加让我意识到盼头的重要性，生活需要希望，工作更需要远大的目标。但使命感如何建立，并不容易，需要一点一滴构建和小心呵护。”</p><p><img src="../assets/2024-03-23-19-18-19.png" alt=""></p>]]></content>
       
       
       <categories>
@@ -137,27 +137,6 @@
     
     
     <entry>
-      <title>换根DP</title>
-      <link href="/posts/4286fd48.html"/>
-      <url>/posts/4286fd48.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="换根DP"><a href="#换根DP" class="headerlink" title="换根DP"></a>换根DP</h2><p>参考博客<a href="https://zhuanlan.zhihu.com/p/348349531">https://zhuanlan.zhihu.com/p/348349531</a></p><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><h3 id="题目1-洛谷P3478"><a href="#题目1-洛谷P3478" class="headerlink" title="题目1 洛谷P3478"></a>题目1 洛谷P3478</h3><p><a href="https://www.luogu.com.cn/problem/P3478">https://www.luogu.com.cn/problem/P3478</a></p><h3 id="题目2-div2-899-D"><a href="#题目2-div2-899-D" class="headerlink" title="题目2 div2_899_D"></a>题目2 div2_899_D</h3><p><a href="https://codeforces.com/contest/1882/problem/D">https://codeforces.com/contest/1882/problem/D</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> ICPC </category>
-          
-          <category> DP </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>CF数学</title>
       <link href="/posts/aa579273.html"/>
       <url>/posts/aa579273.html</url>
@@ -170,6 +149,27 @@
           <category> ICPC </category>
           
           <category> ACM-Math </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>换根DP</title>
+      <link href="/posts/4286fd48.html"/>
+      <url>/posts/4286fd48.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="换根DP"><a href="#换根DP" class="headerlink" title="换根DP"></a>换根DP</h2><p>参考博客<a href="https://zhuanlan.zhihu.com/p/348349531">https://zhuanlan.zhihu.com/p/348349531</a></p><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><h3 id="题目1-洛谷P3478"><a href="#题目1-洛谷P3478" class="headerlink" title="题目1 洛谷P3478"></a>题目1 洛谷P3478</h3><p><a href="https://www.luogu.com.cn/problem/P3478">https://www.luogu.com.cn/problem/P3478</a></p><h3 id="题目2-div2-899-D"><a href="#题目2-div2-899-D" class="headerlink" title="题目2 div2_899_D"></a>题目2 div2_899_D</h3><p><a href="https://codeforces.com/contest/1882/problem/D">https://codeforces.com/contest/1882/problem/D</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ICPC </category>
+          
+          <category> DP </category>
           
       </categories>
       
