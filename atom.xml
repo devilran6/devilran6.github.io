@@ -6,7 +6,7 @@
   <link href="https://devilran6.github.io/atom.xml" rel="self"/>
   
   <link href="https://devilran6.github.io/"/>
-  <updated>2024-03-23T14:15:00.000Z</updated>
+  <updated>2024-03-25T10:28:29.000Z</updated>
   <id>https://devilran6.github.io/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【往事随风】1 ddl 才是第一生产力！</title>
+    <link href="https://devilran6.github.io/posts/711e91cb.html"/>
+    <id>https://devilran6.github.io/posts/711e91cb.html</id>
+    <published>2024-03-25T10:28:29.000Z</published>
+    <updated>2024-03-25T10:28:29.000Z</updated>
+    
+    
+    <summary type="html">【往事随风】1 ddl 才是第一生产力！</summary>
+    
+    
+    
+    <category term="往事随风" scheme="https://devilran6.github.io/categories/%E5%BE%80%E4%BA%8B%E9%9A%8F%E9%A3%8E/"/>
+    
+    
+    <category term="效率" scheme="https://devilran6.github.io/tags/%E6%95%88%E7%8E%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://devilran6.github.io/posts/0.html"/>
+    <id>https://devilran6.github.io/posts/0.html</id>
+    <published>2024-03-25T10:01:43.249Z</published>
+    <updated>2024-03-25T10:10:58.520Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="bloghelloworldblog">blog<br>helloworld<br>blog</h2><h2 id="title-description-categories">title:<br>description:<br>categories:</h2><h2 id="tags">tags:</h2><h2 id="created-2024-03-25-18-10-57updated-2024-03-25-18-10-57date-2024-03-25-18-10-57highlight-shrink-falsemathjax-truesticky-2toc-truetoc-number-trueabbrlink-copyright-author-devilrancopyright-author-href-copyright-url-copyright-info">created: 2024-03-25 18:10:57<br>updated: 2024-03-25 18:10:57<br>date: 2024-03-25 18:10:57<br>highlight_shrink: false<br>mathjax: true<br>sticky: 2<br>toc: true<br>toc_number: true<br>abbrlink:<br>copyright_author: devilran<br>copyright_author_href:<br>copyright_url:<br>copyright_info:</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;bloghelloworldblog&quot;&gt;blog&lt;br&gt;
+helloworld&lt;br&gt;
+blog&lt;/h2&gt;
+&lt;h2 id=&quot;title-description-categories&quot;&gt;title:&lt;br&gt;
+description:&lt;br&gt;
+categories:&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>【Blog】 1 春天要来了！</title>
@@ -112,25 +156,6 @@
   </entry>
   
   <entry>
-    <title>有意思的网站</title>
-    <link href="https://devilran6.github.io/posts/5c37860b.html"/>
-    <id>https://devilran6.github.io/posts/5c37860b.html</id>
-    <published>2023-09-30T16:00:00.000Z</published>
-    <updated>2024-03-23T13:42:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://wdxtub.com/">https://wdxtub.com/</a></p><p><a href="https://blog.tonycrane.cc/">https://blog.tonycrane.cc/</a></p><p><a href="https://note.tonycrane.cc/">https://note.tonycrane.cc/</a></p>]]></content>
-    
-    
-    <summary type="html">有意思的网站</summary>
-    
-    
-    
-    <category term="Blog" scheme="https://devilran6.github.io/categories/Blog/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>ICPC网络赛第二场</title>
     <link href="https://devilran6.github.io/posts/7869750000.html"/>
     <id>https://devilran6.github.io/posts/7869750000.html</id>
@@ -145,6 +170,25 @@
     
     
     <category term="ICPC" scheme="https://devilran6.github.io/categories/ICPC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>有意思的网站</title>
+    <link href="https://devilran6.github.io/posts/5c37860b.html"/>
+    <id>https://devilran6.github.io/posts/5c37860b.html</id>
+    <published>2023-09-30T16:00:00.000Z</published>
+    <updated>2024-03-23T13:42:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://wdxtub.com/">https://wdxtub.com/</a></p><p><a href="https://blog.tonycrane.cc/">https://blog.tonycrane.cc/</a></p><p><a href="https://note.tonycrane.cc/">https://note.tonycrane.cc/</a></p>]]></content>
+    
+    
+    <summary type="html">有意思的网站</summary>
+    
+    
+    
+    <category term="Blog" scheme="https://devilran6.github.io/categories/Blog/"/>
     
     
   </entry>
