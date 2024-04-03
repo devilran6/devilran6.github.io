@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://devilran6.github.io/posts/f0420036.html</loc>
+    
+    <lastmod>2024-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://devilran6.github.io/posts/f9fc9c20.html</loc>
     
     <lastmod>2024-03-26</lastmod>
@@ -218,6 +227,15 @@
   </url>
   
   <url>
+    <loc>https://devilran6.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://devilran6.github.io/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -227,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://devilran6.github.io/personal/bb/index.html</loc>
+    <loc>https://devilran6.github.io/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -245,16 +263,7 @@
   </url>
   
   <url>
-    <loc>https://devilran6.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://devilran6.github.io/life/music/index.html</loc>
+    <loc>https://devilran6.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -281,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://devilran6.github.io/site/census/index.html</loc>
+    <loc>https://devilran6.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -301,36 +310,43 @@
 
   <url>
     <loc>https://devilran6.github.io/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://devilran6.github.io/tags/%E9%A3%8E%E6%99%AF/</loc>
+    <lastmod>2024-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://devilran6.github.io/tags/Markdown/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://devilran6.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://devilran6.github.io/tags/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://devilran6.github.io/tags/%E9%A3%8E%E6%99%AF/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <loc>https://devilran6.github.io/tags/%E9%A1%B5%E8%A1%A8/</loc>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -339,63 +355,63 @@
   
   <url>
     <loc>https://devilran6.github.io/categories/Blog/</loc>
-    <lastmod>2024-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://devilran6.github.io/categories/OS/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://devilran6.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://devilran6.github.io/categories/ICPC/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://devilran6.github.io/categories/OS/CSAPP/</loc>
-    <lastmod>2024-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://devilran6.github.io/categories/ICPC/DP/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <loc>https://devilran6.github.io/categories/OS/</loc>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://devilran6.github.io/categories/ICPC/CF/</loc>
-    <lastmod>2024-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://devilran6.github.io/categories/OS/MIT-6-S081/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://devilran6.github.io/categories/ICPC/ACM-Math/</loc>
-    <lastmod>2024-03-27</lastmod>
+    <lastmod>2024-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://devilran6.github.io/categories/ICPC/DP/</loc>
+    <lastmod>2024-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://devilran6.github.io/categories/OS/MIT-6-S081/</loc>
+    <lastmod>2024-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://devilran6.github.io/categories/OS/CSAPP/</loc>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
